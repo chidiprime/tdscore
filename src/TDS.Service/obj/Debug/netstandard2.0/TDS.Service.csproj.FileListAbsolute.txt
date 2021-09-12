@@ -1,0 +1,14 @@
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Service.deps.json
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Service.dll
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Service.pdb
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Core.dll
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Data.dll
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Core.pdb
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\bin\Debug\netstandard2.0\TDS.Data.pdb
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.csprojAssemblyReference.cache
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.AssemblyInfoInputs.cache
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.AssemblyInfo.cs
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.csproj.CopyComplete
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.dll
+C:\Users\Daniel Onyeachonam\Desktop\TransactionDiscovery\src\TDS.Service\obj\Debug\netstandard2.0\TDS.Service.pdb
