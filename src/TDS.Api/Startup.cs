@@ -46,7 +46,6 @@ namespace TDS.Api
             services.AddScoped<ILog, Log>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IWalletService, WalletService>();
-            services.AddScoped<IAPILog, APILog>();
             services.AddScoped<IOperationService, OperationService>();
             services.AddScoped<IBackgroundService, BackgroundJobService>();
             services.AddTransient<IRestClient, RestClient>();
